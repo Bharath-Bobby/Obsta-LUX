@@ -92,5 +92,4 @@ The web server listens for HTTP requests to control movement and speed.
 
 ## References
 
-* **Video Demo:** [https://www.youtube.com/watch?v=AP_Nqc6u3fU](https://www.youtube.com/watch?v=AP_Nqc6u3fU)
-* **Project Files:** [https://drive.google.com/drive/u/0/folders/1b0RVtNN4TE_0RgrC2sV9AcCecHgo2HKq](https://drive.google.com/drive/u/0/folders/1b0RVtNN4TE_0RgrC2sV9AcCecHgo2HKq)
+* **Youtube:** [https://www.youtube.com/watch?v=AP_Nqc6u3fU](https://www.youtube.com/watch?v=AP_Nqc6u3fU)
