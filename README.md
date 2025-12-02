@@ -93,3 +93,16 @@ The web server listens for HTTP requests to control movement and speed.
 ## References
 
 * **Youtube:** [https://www.youtube.com/watch?v=AP_Nqc6u3fU](https://www.youtube.com/watch?v=AP_Nqc6u3fU)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+Licensed under the [MIT License](LICENSE).
+
+## Author
+
+**Bharath Harihara Sudhan** - 
+GitHub: [@Bharath-Bobby](https://github.com/Bharath-Bobby)
